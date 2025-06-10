@@ -78,6 +78,4 @@ Software Engineering Student | Aspiring Full-Stack Developer
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper)](https://github.com/abeloper/github-readme-stats)-->
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper&layout=compact&theme=vision-friendly-dark&hide=html,css)
 
-
-
 </div>
