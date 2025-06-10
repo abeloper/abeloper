@@ -6,7 +6,8 @@ abeloper/README.md
 
 <div align="center">
 
-[![Visitors](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=0e75b6&style=flat)](https://github.com/yourusername)
+[![Visitors](https://komarev.com/ghpvc/?username=abeloper&label=Views&color=0e75b6&style=flat)](https://github.com/abeloper)
+
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -37,7 +38,7 @@ Software Engineering Student | Aspiring Full-Stack Developer
 ## 🚀 Currently Working On
 
 - 🔭 I’m currently working on building my first full-stack apps with React & Node.js.
-- 🌱 I’m currently learning React.js & Node.js to build full-stack apps.
+- 🌱 I’m currently learning React, Node.js, and MySQL to build full-stack apps.
 - 👯 I’m looking to collaborate on  Hackathons or collaborative coding challenges—especially with devs who enjoy problem-solving and knowledge-sharing.
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Frontend development, JavaScript fundamentals.
@@ -69,11 +70,14 @@ Software Engineering Student | Aspiring Full-Stack Developer
   <!-- ### 👀 Visitors Count-->
   
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abeloper&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=abeloper&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://streak-stats.demolab.com?user=abeloper&theme=dark)](https://git.io/streak-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper)](https://github.com/abeloper/github-readme-stats)-->
+![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper&layout=compact&theme=vision-friendly-dark&hide=html,css)
 
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark&hide=html,css)
+
+
 </div>
