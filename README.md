@@ -16,7 +16,7 @@ abeloper/README.md
 
 ## Hi there👋, I'm  Abeje Goshu
 
-Software Engineering Student | Aspiring Full-Stack Developer
+Software Engineering Student | Full-Stack Developer in Training
 
 🌍 Based in Addis Abeba, Ethiopia | 📧 abejegoshu554@gmail.com | 🔗 LinkedIn (abeloper)
 
@@ -41,7 +41,7 @@ Software Engineering Student | Aspiring Full-Stack Developer
 - 👯 I’m looking to collaborate on  Hackathons or collaborative coding challenges—especially with devs who enjoy problem-solving and knowledge-sharing.
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Frontend development, JavaScript fundamentals.
-- 📫 How to reach me: abeloper**@gmail.com
+- 📫 How to reach me: abejegoshu554@gmail.com
   <!-- 😄 Pronouns: ...-->>
 - ⚡ Fun fact: Every error message is a chance to learn… and I’ve had a lot of chances. 😅
 
