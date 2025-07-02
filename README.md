@@ -73,7 +73,5 @@ Software Engineering Student | Aspiring Full-Stack Developer
 [![trophy](https://github-profile-trophy.vercel.app/?username=abeloper&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![Stats](https://github-readme-stats.vercel.app/api?username=abeloper&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak](https://streak-stats.demolab.com?user=abeloper&theme=dark)](https://git.io/streak-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper)](https://github.com/abeloper/github-readme-stats)-->
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper&layout=compact&theme=vision-friendly-dark&hide=html,css)
-
+![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper&layout=compact&theme=vision-friendly-dark)
 </div>
