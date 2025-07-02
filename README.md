@@ -18,9 +18,8 @@ abeloper/README.md
 
 Software Engineering Student | Aspiring Full-Stack Developer
 
-🌍 Based in Addis Abeba, Ethiopia | 📧 abeloper**@gmail.com | 🔗 LinkedIn (abe)
+🌍 Based in Addis Abeba, Ethiopia | 📧 abejegoshu554@gmail.com | 🔗 LinkedIn (abeloper)
 
-<!--**abeloper/abeloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### 👨‍💻 About Me
 *Passionate software engineering student with foundational skills in HTML, CSS, and JavaScript. Currently expanding my expertise in React, Node.js, and MySQL to build scalable web applications through project-based work. Dedicated to continuous learning through hands-on projects and coding challenges. My goal is to grow as a developer while contributing to meaningful solutions.*
 
