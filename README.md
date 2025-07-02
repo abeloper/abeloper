@@ -42,7 +42,7 @@ Software Engineering Student | Full-Stack Developer in Training
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Frontend development, JavaScript fundamentals.
 - 📫 How to reach me: abejegoshu554@gmail.com
-  <!-- 😄 Pronouns: ...-->>
+
 - ⚡ Fun fact: Every error message is a chance to learn… and I’ve had a lot of chances. 😅
 
 ## 🛠️ Languages and Tools
