@@ -14,6 +14,10 @@ abeloper/README.md
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00F72D&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abeje+Goshu;Software+Engineering+Student;Full+Stack+Developer+in+Training;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
 ## Hi there👋, I'm  Abeje Goshu
 
 Software Engineering Student | Full-Stack Developer in Training
@@ -74,5 +78,5 @@ Software Engineering Student | Full-Stack Developer in Training
 [![Streak](https://streak-stats.demolab.com?user=abeloper&theme=dark)](https://git.io/streak-stats)
 
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=abeloper&layout=compact&theme=vision-friendly-dark)
-
+<!--![Visitor Count](https://profile-counter.glitch.me/abeloper/count.svg)-->
 </div>
